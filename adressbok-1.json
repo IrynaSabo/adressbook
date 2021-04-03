@@ -27,5 +27,13 @@
         "phone": "070918273645",
         "age": 39,
         "img": "team4.png" 
+    },
+    {
+        "firstname": "Lili",
+        "lastname": "Marshall",
+        "email": "lilie@sneakysneakers.se",
+        "phone": "070918273649",
+        "age": 36,
+        "img": "team4.png" 
     }
 ]

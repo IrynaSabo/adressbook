@@ -1,4 +1,5 @@
 const list = document.getElementById("anstallda");
+const name = "Alexander";
 
 function createNode(element){ //funktion som skapar element i HTML
     return document.createElement(element);
